@@ -7,8 +7,7 @@ Disciplina realizada no 2° semestre de 2024
 ### EP1 - Arranjo de antenas
 - Entrega: 04/09/2024
 - Nota: 9/10
-
-Lorem ipsum
+...
 
 ### EP2
 - Entrega: 26/09/2024
